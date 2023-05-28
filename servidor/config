@@ -4,3 +4,6 @@
 	bare = true
 	symlinks = false
 	ignorecase = true
+[remote "servidorlocal"]
+	url = C:/Users/MARIA CAMILA/Documents/Oracle-one-G5/Curso-5/servidor
+	fetch = +refs/heads/*:refs/remotes/servidorlocal/*
